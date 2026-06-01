@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TaskFlow – Task Manager
 
 A clean, web-based task management system built with vanilla HTML, CSS, and JavaScript.
@@ -51,3 +52,7 @@ Then visit `http://localhost:8080`.
 
 Works in all modern browsers (Chrome, Firefox, Safari, Edge).  
 Requires JavaScript enabled.
+=======
+# Algonive_Task_Manager
+A web-based task management system built with HTML, CSS, and JavaScript that allows users to add, edit, delete, and manage tasks with deadlines, reminders, and local storage support.
+>>>>>>> f07d7c6df55472d5bf0abd59df9bf3cc8d9e50c4
